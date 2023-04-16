@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Righteous', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Unbounded', cursive;
+}
+
+h3{
+    font-family: 'Nunito', sans-serif;
+}
+
+h4{
+    font-family: 'Nunito', sans-serif;
+}
+
+h5{
+    font-family: 'Righteous', cursive;
+}
+
+.miao{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center; 
+}
+
+.text{
+    display: flex;
+    text-decoration-line: none;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    color: white;
+}
